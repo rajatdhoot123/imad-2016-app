@@ -20,3 +20,10 @@ body {
     height: 200px;
 }
 
+	.container {
+    max-width: 500px;
+    margin: 0 auto;
+    color: #514545;
+    font-family: sans-serif;
+    padding-top: 90px;
+	}
